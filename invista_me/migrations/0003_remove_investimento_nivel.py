@@ -6,7 +6,7 @@ from django.db import migrations
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('invista_me', '0002_investimento_nivel'),
+        ('invista-me', '0002_investimento_nivel'),
     ]
 
     operations = [
